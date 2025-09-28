@@ -22,4 +22,5 @@ recbytes = wic_com(1,CWORD(@url$),len(url$),0,0,$0658)
 
 
 
+
  
